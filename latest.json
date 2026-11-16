@@ -1,0 +1,21 @@
+{
+  "version": "1.7.27",
+  "commit": "9366f28d6b0db830ce934faa9217408e59c21ba8",
+  "notes": "外贸CRM v1.7.27：公开更新源，无需 GitHub 令牌。",
+  "packages": [
+    {
+      "file": "ForeignTradeCrm-Online-win-x64-v1.7.27-9366f28d6b0d.zip",
+      "mode": "online",
+      "sha256": "ffe7d61c9de88676b5f13b8479af46647778f5b398de99e8c3c7fd8d693e0878",
+      "bytes": 86586421,
+      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.27/ForeignTradeCrm-Online-win-x64-v1.7.27-9366f28d6b0d.zip"
+    },
+    {
+      "file": "ForeignTradeCrm-Offline-win-x64-v1.7.27-9366f28d6b0d.zip",
+      "mode": "offline",
+      "sha256": "1ae18e7ee6d4d076533185c6430e8375d08e93fa4dfdfb357d1e8f20a05ea11a",
+      "bytes": 86586038,
+      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.27/ForeignTradeCrm-Offline-win-x64-v1.7.27-9366f28d6b0d.zip"
+    }
+  ]
+}
