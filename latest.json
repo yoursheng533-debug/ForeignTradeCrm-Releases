@@ -1,21 +1,28 @@
 {
-  "version": "1.7.41",
-  "commit": "e3e1f18b14fa0bfe50e18443f4351e6116dbbfc6",
+  "version": "1.7.42",
+  "commit": "07e5091ba0a2481a52e5f9459e757a630d858188",
   "packages": [
     {
-      "file": "ForeignTradeCrm-Online-win-x64-v1.7.41-e3e1f18b14fa.zip",
+      "file": "ForeignTradeCrm-Online-win-x64-v1.7.42-07e5091ba0a2.zip",
       "mode": "online",
-      "sha256": "fc999f3c90d43bb3b53809c5aaaf4cffff9bff500dc7b2d1c960f1c3e2ccc973",
-      "bytes": 78377354,
-      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.41/ForeignTradeCrm-Online-win-x64-v1.7.41-e3e1f18b14fa.zip"
+      "sha256": "5e6f76207aedc88f14a74dc47827058374a868e26f7f3b803dde33847acbcd06",
+      "bytes": 78386162,
+      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.42/ForeignTradeCrm-Online-win-x64-v1.7.42-07e5091ba0a2.zip"
     },
     {
-      "file": "ForeignTradeCrm-Offline-win-x64-v1.7.41-e3e1f18b14fa.zip",
+      "file": "ForeignTradeCrm-Offline-win-x64-v1.7.42-07e5091ba0a2.zip",
       "mode": "offline",
-      "sha256": "782b40ee06b0e6b39e52f0216d04151349cb1e71d7fe29f226670149a08f50b8",
-      "bytes": 78376970,
-      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.41/ForeignTradeCrm-Offline-win-x64-v1.7.41-e3e1f18b14fa.zip"
+      "sha256": "c4b9c716d6897758e6b40f101999fde3c15765eccfde66f9fc98dd35a1c7c929",
+      "bytes": 78385772,
+      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.42/ForeignTradeCrm-Offline-win-x64-v1.7.42-07e5091ba0a2.zip"
     }
   ],
-  "notes": "外贸CRM v1.7.41：现有 v1.7.40 可直接通过“检查更新”升级；包含 PI 文件名修复。只更新程序并保留原 app 备份，保留邮件、数据和连接配置，无需手动替换文件夹。"
+  "repairTool": {
+    "file": "ForeignTradeCrm-Update-Repair-win-x64-v1.7.42-07e5091ba0a2.zip",
+    "mode": "repair-tool",
+    "bytes": 73604197,
+    "sha256": "0b3f9025723cec57121e0d4f06b1103061be1bb71b6248b74aed5e90ade4b833",
+    "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.42/ForeignTradeCrm-Update-Repair-win-x64-v1.7.42-07e5091ba0a2.zip"
+  },
+  "notes": "外贸CRM v1.7.42：修复 ZIP 下载校验占用并保留原启动方式。旧 v1.7.40/早期 v1.7.41 请先使用一次性 Update-Repair 工具，自动备份并替换程序，保留邮件、数据及连接配置。"
 }
