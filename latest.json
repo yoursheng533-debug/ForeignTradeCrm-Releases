@@ -1,21 +1,21 @@
 {
-  "version": "1.7.27",
-  "commit": "9366f28d6b0db830ce934faa9217408e59c21ba8",
-  "notes": "外贸CRM v1.7.27：公开更新源，无需 GitHub 令牌。",
+  "version": "1.7.40",
+  "commit": "4b76585484cc249c304c56469769ad7c0b545a56",
   "packages": [
     {
-      "file": "ForeignTradeCrm-Online-win-x64-v1.7.27-9366f28d6b0d.zip",
+      "file": "ForeignTradeCrm-Online-win-x64-v1.7.40-4b76585484cc.zip",
       "mode": "online",
-      "sha256": "ffe7d61c9de88676b5f13b8479af46647778f5b398de99e8c3c7fd8d693e0878",
-      "bytes": 86586421,
-      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.27/ForeignTradeCrm-Online-win-x64-v1.7.27-9366f28d6b0d.zip"
+      "sha256": "1225a26e5a39011e4e68a1d4acb267f35998f320700083c48f39a7ea721eb1ea",
+      "bytes": 78377362,
+      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.40/ForeignTradeCrm-Online-win-x64-v1.7.40-4b76585484cc.zip"
     },
     {
-      "file": "ForeignTradeCrm-Offline-win-x64-v1.7.27-9366f28d6b0d.zip",
+      "file": "ForeignTradeCrm-Offline-win-x64-v1.7.40-4b76585484cc.zip",
       "mode": "offline",
-      "sha256": "1ae18e7ee6d4d076533185c6430e8375d08e93fa4dfdfb357d1e8f20a05ea11a",
-      "bytes": 86586038,
-      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.27/ForeignTradeCrm-Offline-win-x64-v1.7.27-9366f28d6b0d.zip"
+      "sha256": "d76e5c85a36fc29816eb73c8f0c77aeec564fbddaa6e0222cda57d9d3b7da28f",
+      "bytes": 78376977,
+      "url": "https://github.com/yoursheng533-debug/ForeignTradeCrm-Releases/releases/download/v1.7.40/ForeignTradeCrm-Offline-win-x64-v1.7.40-4b76585484cc.zip"
     }
-  ]
+  ],
+  "notes": "外贸CRM v1.7.40：自动开发历史永久保存、订单编号与炉号、验货及尺寸/MOC报告更新；PI 文件名仅保留订单号与客户 PO，不附加导出时间。更新保留原有数据与连接配置。"
 }
